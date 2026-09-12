@@ -1,4 +1,5 @@
 <script lang="ts">
+  import Icon from '$lib/components/Icon.svelte';
   import { config } from '$lib/config.js';
   import { estimate } from '$lib/calculator.js';
   import { getCopy } from '$lib/i18n';
@@ -49,7 +50,7 @@
     </div>
     <p class="mode-help">{copy.calc.modeHelp[mode === 'landing' ? 0 : 1]}</p>
     <section class="calculator-panel">
-      <div class="panel-heading"><div><h2>{copy.calc.usage}</h2><p class="usage-hint">{copy.calc.usageHint}</p></div><button class="text-button" onclick={reset}>{copy.calc.reset} <span aria-hidden="true">↺</span></button></div>
+      <div class="panel-heading"><div><h2>{copy.calc.usage}</h2><p class="usage-hint">{copy.calc.usageHint}</p></div><button class="text-button" onclick={reset}>{copy.calc.reset} <span aria-hidden="true"><Icon name="refresh" /></span></button></div>
       {#if plans.length}
         <label class="plan-select" for="plan-select"><span>{copy.calc.plan}</span><select id="plan-select" bind:value={selectedPlan} onchange={() => quote = planQuote(selectedPlan)}>{#each plans as plan}<option value={plan.id}>{plan.name[lang] || plan.name.en} · {money(plan.monthlyMinor)}{copy.calc.perMonth}</option>{/each}</select></label>
         {#if selectedPlanData}
@@ -65,7 +66,7 @@
       </div>
     </section>
     <details class="advanced-settings">
-      <summary><span><strong>{copy.calc.advanced}</strong><small>{copy.calc.advancedHint}</small><small>{copy.calc.fields[3]}: {usage.engaged || '0'} · {copy.calc.fields[4]}: {usage.reengaged || '0'}</small></span><b aria-hidden="true">+</b></summary>
+      <summary><span><strong>{copy.calc.advanced}</strong><small>{copy.calc.advancedHint}</small><small>{copy.calc.fields[3]}: {usage.engaged || '0'} · {copy.calc.fields[4]}: {usage.reengaged || '0'}</small></span><b aria-hidden="true"><Icon name="plus" /></b></summary>
       <div class="advanced-content">
         <section class="calculator-panel advanced-usage">
           <div class="panel-heading"><h2>{copy.calc.advancedUsage}</h2></div>

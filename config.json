@@ -5,7 +5,7 @@
     "logo": "/brand/adlinker-logo.svg",
     "logoDark": "/brand/adlinker-logo-dark.svg",
     "icon": "/brand/adlinker-icon.svg",
-    "favicon": "/brand/favicon.ico",
+    "favicon": "/brand/adlinker-icon.svg",
     "socialImage": "/brand/adlinker-app-icon.png"
   },
   "appearance": { "accentColor": "#00AA86", "defaultTheme": "light" },

@@ -15,6 +15,11 @@ for (const locale of locales) for (const section of sections) {
   assert.ok(html.includes(`rel="canonical" href="${origin}${path}"`), `canonical: ${path}`);
   assert.ok((html.match(/rel="alternate"/g) || []).length >= 2, `hreflang: ${path}`);
   assert.ok(html.includes('id="main"'), `main: ${path}`);
+  assert.doesNotMatch(html, /[\u2190-\u2bff\u{1f000}-\u{1faff}\ufe0f]/u, `Unicode icon instead of SVG: ${path}`);
+  for (const match of html.matchAll(/<svg\b[^>]*class="ui-icon"[^>]*>([\s\S]*?)<\/svg>/g)) {
+    assert.match(match[0], /aria-hidden="true"/, `decorative icon accessibility: ${path}`);
+    assert.match(match[1], /<path d="[^"]+"/, `missing SVG icon path: ${path}`);
+  }
   assert.ok(/<title>[^<]+<\/title>/.test(html), `title: ${path}`);
   assert.ok(/<meta name="description" content="[^"]+"/.test(html), `description: ${path}`);
   assert.ok(/<h1\b[^>]*>/.test(html), `h1: ${path}`);
