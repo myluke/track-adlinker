@@ -42,7 +42,8 @@
       </button>
       {#if signIn}<a class="sign-in" href={signIn}>{copy.signIn}</a>{/if}
       {#if register}<a class="button primary compact header-cta" href={register}>{copy.start} <span aria-hidden="true"><Icon name="arrow-up-right" /></span></a>{/if}
-      <details class="mobile-menu"><summary aria-label={copy.menu}><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg></summary><nav aria-label={copy.menu}><a href={link(lang, '')} data-sveltekit-reload>{copy.home}</a><a href={link(lang, '') + '#product'} data-sveltekit-reload>{copy.showcase.label}</a><a href={link(lang, 'why')} data-sveltekit-reload>{copy.nav[0]}</a><a href={link(lang, 'calculator')} data-sveltekit-reload>{copy.nav[1]}</a><a href={link(lang, 'contact')} data-sveltekit-reload>{copy.contact.nav}</a>{#if register}<a href={register}>{copy.start}</a>{/if}</nav></details>
+      <details class="mobile-menu"><summary aria-label={copy.menu}><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg></summary><nav aria-label={copy.menu}><a href={link(lang, '')} data-sveltekit-reload>{copy.home}</a><a href={link(lang, '') + '#product'} data-sveltekit-reload>{copy.showcase.label}</a><a href={link(lang, 'why')} data-sveltekit-reload>{copy.nav[0]}</a><a href={link(lang, 'calculator')} data-sveltekit-reload>{copy.nav[1]}</a><a href={link(lang, 'contact')} data-sveltekit-reload>{copy.contact.nav}</a>{#if register}<a href={register}>{copy.start}</a>{/if}<a class="main-site-link" href={config.urls.marketing}>{copy.backToMainSite}</a></nav></details>
     </div>
   </div>
 </header>
+
