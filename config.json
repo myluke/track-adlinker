@@ -1,0 +1,53 @@
+{
+  "brand": {
+    "name": "AdLinker",
+    "tagline": "Link. Track. Grow.",
+    "logo": "/brand/adlinker-logo.svg",
+    "logoDark": "/brand/adlinker-logo-dark.svg",
+    "icon": "/brand/adlinker-icon.svg",
+    "favicon": "/brand/favicon.ico",
+    "socialImage": "/brand/adlinker-app-icon.png"
+  },
+  "appearance": { "accentColor": "#00AA86", "defaultTheme": "light" },
+  "urls": {
+    "marketing": "https://adlinker.work",
+    "application": "https://app.adlinker.work",
+    "signInPath": "",
+    "registrationPath": "/"
+  },
+  "contact": { "supportEmail": "support@adlinker.work", "telegram": "https://t.me/Leo_1188", "phone": "15000834891" },
+  "legal": { "entity": "adlinker", "governingLaw": "the laws of New South Wales, Australia", "effectiveDate": "2026-09-12", "reviewed": true },
+  "pricing": {
+    "currency": "CNY",
+    "currencySymbol": "¥",
+    "confirmed": true,
+    "plans": [
+      {
+        "id": "pay-as-you-go",
+        "name": { "en": "Pay as you go", "zh-hans": "按量付费", "zh-hant": "按量付費", "ko": "종량제", "ja": "従量課金", "pt": "Pagamento por uso", "es": "Pago por uso" },
+        "monthlyMinor": 0, "includedAccounts": 1, "extraAccountMinor": 12000,
+        "visitorTenThousandths": 300, "uvIncluded": 3000, "uvCreditMinor": 9000, "eventCreditMinor": 1500
+      },
+      {
+        "id": "basic",
+        "name": { "en": "Basic", "zh-hans": "基础版", "zh-hant": "基礎版", "ko": "베이직", "ja": "ベーシック", "pt": "Básico", "es": "Básico" },
+        "monthlyMinor": 79900, "includedAccounts": 5, "extraAccountMinor": 9900,
+        "visitorTenThousandths": 300, "uvIncluded": 20000, "uvCreditMinor": 60000, "eventCreditMinor": 12000
+      },
+      {
+        "id": "pro",
+        "name": { "en": "Pro", "zh-hans": "专业版", "zh-hant": "專業版", "ko": "프로", "ja": "プロ", "pt": "Profissional", "es": "Profesional" },
+        "monthlyMinor": 199900, "includedAccounts": 20, "extraAccountMinor": 6900,
+        "visitorTenThousandths": 250, "uvIncluded": 60000, "uvCreditMinor": 150000, "eventCreditMinor": 25000
+      },
+      {
+        "id": "flagship",
+        "name": { "en": "Flagship", "zh-hans": "旗舰版", "zh-hant": "旗艦版", "ko": "플래그십", "ja": "フラッグシップ", "pt": "Flagship", "es": "Flagship" },
+        "monthlyMinor": 449900, "includedAccounts": 60, "extraAccountMinor": 4900,
+        "visitorTenThousandths": 170, "uvIncluded": 200000, "uvCreditMinor": 340000, "eventCreditMinor": 100000
+      }
+    ],
+    "eventPrices": { "intentTenThousandths": 2000, "engagedTenThousandths": 5000, "reengagedTenThousandths": 3000 },
+    "calculatorDefaults": { "visitors": 30000, "accounts": 5, "intent": 0, "engaged": 0, "reengaged": 0 }
+  }
+}

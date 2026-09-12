@@ -1,0 +1,335 @@
+{
+  "nav": [
+    "為什麼有效",
+    "費用估算",
+    "條款",
+    "隱私"
+  ],
+  "eyebrow": "LINK. TRACK. GROW.",
+  "title": "把廣告點擊，連成 WhatsApp 轉化證據鏈。",
+  "lead": "AdLinker 協助你連接 TikTok 廣告流量與 WhatsApp 對話，讓每條線索都有來源、階段和清晰的回傳狀態。",
+  "primary": "了解工作流程",
+  "secondary": "查看費用估算",
+  "proof": "從點擊到對話，每一步都有跡可循",
+  "proofLead": "從首次訪問到回傳事件，讓交接過程保持可見。",
+  "whyTitle": "能指導決策的證據",
+  "whyLead": "在下一次投放決定前，先看清記錄、匹配和交付狀態。",
+  "why": [
+    "帶來源的連結",
+    "對話里程碑",
+    "回傳交付狀態"
+  ],
+  "whyText": [
+    "為每次訪問生成可追蹤 ID。",
+    "把首條訊息和更深層意向分開。",
+    "查看排隊、發送、重試或拒絕狀態。"
+  ],
+  "calcTitle": "用你的資料估算",
+  "calcLead": "只在瀏覽器運行的費用工作表，無需帳號或追蹤腳本。",
+  "terms": "服務條款",
+  "privacy": "隱私政策",
+  "configure": "價格和註冊入口正在配置中，請聯絡 AdLinker 取得確認報價。",
+  "footer": "AdLinker 提供諮詢與接入支援。具體服務、可用性與計費以確認訂單和上游規則為準。",
+  "cta": "查看工作流程",
+  "back": "返回首頁",
+  "sample": "示意事件 · 示例資料",
+  "stages": [
+    "TikTok 廣告",
+    "追蹤連結 / TID",
+    "WhatsApp 對話",
+    "Events API"
+  ],
+  "events": [
+    "page_view",
+    "wa_open",
+    "first_message",
+    "qualified"
+  ],
+  "estimate": "費用估算",
+  "visitors": "每月訪問量",
+  "accounts": "WhatsApp 帳號數",
+  "intent": "意向聯絡人",
+  "engaged": "深度互動聯絡人",
+  "reengaged": "重新互動聯絡人",
+  "calculate": "計算",
+  "example": "價格尚未確認，這裡顯示的是示例估算。",
+  "total": "預計月度總額",
+  "unavailable": "尚未配置",
+  "home": "首頁",
+  "headline": [
+    "讓每一次點擊，",
+    "都有轉化的線索。"
+  ],
+  "skip": "跳至主要內容",
+  "language": "語言",
+  "lightTheme": "切換淺色主題",
+  "darkTheme": "切換深色主題",
+  "menu": "選單",
+  "start": "開始使用",
+  "signIn": "登入",
+  "heroNotes": [
+    "追溯線索來源",
+    "看清對話階段",
+    "檢查回傳狀態"
+  ],
+  "diagramTitle": "一次點擊，連接整個旅程。",
+  "diagramCaption": "歸因流程示意，非即時業務資料。",
+  "diagramMeta": "從廣告到對話",
+  "stageNotes": [
+    "客戶從 TikTok 廣告開始訪問。",
+    "唯一追蹤 ID 將來源與訪問關聯。",
+    "首條訊息與後續互動成為對話里程碑。",
+    "支援的事件透過設定的連線回傳。"
+  ],
+  "howLabel": "運作方式",
+  "featuresTitle": "把轉化的每個環節，放在一起看。",
+  "featuresLead": "從引流到對話，再到事件回饋，讓投放決策有據可依。",
+  "features": [
+    [
+      "智慧追蹤連結",
+      "先展示到達頁，或直接跳轉 WhatsApp，串起訪問旅程。"
+    ],
+    [
+      "多個 WhatsApp 帳號",
+      "依固定、輪詢或加權策略分配線索。"
+    ],
+    [
+      "對話里程碑",
+      "區分首條入站訊息、實際參與和人工審核線索。"
+    ],
+    [
+      "TikTok 事件回傳",
+      "透過設定的 Events API 連線，回傳支援的事件。"
+    ],
+    [
+      "歸因工作區",
+      "查看廣告來源、帳號維度和漏斗階段。"
+    ],
+    [
+      "團隊協作",
+      "依專案組織工作，透過角色權限與成員協作。"
+    ]
+  ],
+  "pathTitle": "兩種路徑，連接同一個目標。",
+  "pathLead": "依客戶開啟對話的方式，選擇適合你的投放旅程。",
+  "paths": [
+    [
+      "先經過到達頁",
+      "先說明產品，再開啟對話。關聯頁面訪問、按鈕點擊與 WhatsApp 會話。"
+    ],
+    [
+      "直接進入 WhatsApp",
+      "縮短廣告到對話的路徑，透過支援的識別碼關聯會話來源。"
+    ]
+  ],
+  "compareTitle": "點擊量之外，還有更完整的答案。",
+  "compareHeads": [
+    "你關心的問題",
+    "只看點擊量",
+    "連接完整旅程"
+  ],
+  "compareRows": [
+    [
+      "線索從哪裡來？",
+      "訪問與對話分散",
+      "關聯來源與會話"
+    ],
+    [
+      "客戶真的開口了嗎？",
+      "只知道連結被打開",
+      "記錄首條入站訊息"
+    ],
+    [
+      "對話走到哪一步？",
+      "難以區分不同點擊",
+      "查看不同對話里程碑"
+    ],
+    [
+      "事件有送出嗎？",
+      "缺少交付資訊",
+      "查看交付與重試狀態"
+    ]
+  ],
+  "statusTitle": "每個訊號，都有可檢查的狀態。",
+  "statusLabels": [
+    "排隊中",
+    "已傳送",
+    "重試中",
+    "被拒絕"
+  ],
+  "statusNote": "「已傳送」表示交付狀態，不代表平台一定接受、完成歸因或帶來廣告效果。",
+  "pricingHeading": "放大投放前，先算清成本。",
+  "pricingText": "將套餐、帳號容量和實際用量放入同一份預算，以你的報價估算不同規模。",
+  "priceParts": [
+    "月度套餐",
+    "額外帳號",
+    "訪問與對話事件"
+  ],
+  "faqTitle": "你可能還想了解。",
+  "faq": [
+    [
+      "這裡是產品應用嗎？",
+      "這裡是品牌行銷站。產品工作區與登入註冊位於獨立的應用網域。"
+    ],
+    [
+      "有點擊就一定有對話嗎？",
+      "不一定。訪問、跳轉 WhatsApp 和收到訊息是不同階段。歸因幫助你看清旅程走到哪裡。"
+    ],
+    [
+      "計算器結果就是正式報價嗎？",
+      "結果依輸入用量與單價估算，最終以確認的方案、訂單和計費規則為準。"
+    ]
+  ],
+  "closingTitle": "下一次投放，帶著更清晰的答案。",
+  "closingText": "先看懂客戶旅程，再選擇適合投放規模的方案。",
+  "calc": {
+    "title": "用投放規模，算清每月預算。",
+    "lead": "選好套餐，填入用量即可估算。單價與贈送額度自動帶入。",
+    "usage": "你的月度用量",
+    "quote": "套餐價格與額度",
+    "custom": "自訂報價",
+    "reset": "恢復預設",
+    "mode": [
+      "到達頁模式",
+      "直跳 WhatsApp"
+    ],
+    "modeHelp": [
+      "包含先訪問到達頁的流量成本。",
+      "此路徑不計算到達頁 UV 費用。"
+    ],
+    "fields": [
+      "每月廣告訪問總人數（含套餐額度）",
+      "使用中的 WhatsApp 帳號總數",
+      "開始聊天的總人數",
+      "深入聊天的總人數",
+      "重新回來聊天次數"
+    ],
+    "rates": [
+      "月度套餐費",
+      "套餐包含帳號",
+      "額外帳號單價",
+      "每 UV 單價",
+      "UV 贈送額度",
+      "意向聯絡人單價",
+      "深度互動聯絡人單價",
+      "重新互動事件單價",
+      "對話事件贈送額度"
+    ],
+    "fill": "填寫報價",
+    "enter": "填入報價後，查看費用明細。",
+    "incomplete": "請補全單價並填寫有效非負數：人數和次數須為整數，單價最多 4 位小數。",
+    "funnel": "深入聊天人數不能超過開始聊天總人數。",
+    "breakdown": [
+      "套餐月費",
+      "額外 WhatsApp 帳號",
+      "超出免費 UV",
+      "超出對話額度"
+    ],
+    "total": "預計每月費用",
+    "note": "僅作估算，不產生扣款。不含稅費、匯兌及工作表以外的服務費用。",
+    "formula": "深度互動聯絡人包含在意向聯絡人內，同一人只按最深階段計費。落地頁模式的對話事件抵扣對應 UV 單價；重新互動單獨計費。贈送額度抵扣後最低為零。",
+    "local": "輸入僅保留在目前瀏覽器頁面。",
+    "quoteLabel": "月度費用估算",
+    "unit": "計價單位",
+    "clear": "清空報價",
+    "advanced": "可選：補充聊天資料",
+    "advancedHint": "深入聊天人數包含在開始聊天總人數內；再次聊天另計。這兩項留空按 0 估算。",
+    "advancedUsage": "更多聊天資料（可選）",
+    "plan": "月度套餐",
+    "perMonth": "/月",
+    "planIncludes": "套餐包含",
+    "accountsIncluded": "個 WhatsApp 帳號",
+    "uvIncluded": "個免費 UV",
+    "eventIncluded": "對話額度",
+    "howTitle": "這筆費用怎麼算？",
+    "howText": "月度費用 = 套餐費 + 超出的 WhatsApp 帳號費 + 超出免費額度的 UV 費 + 超出贈送額度的對話費。選擇「直跳 WhatsApp」時，不收 UV 費用。",
+    "howDirectText": "月度費用 = 套餐費 + 超出的 WhatsApp 帳號費 + 超出贈送額度的對話費。直跳模式不計算 UV 費用。",
+    "usageHint": "填寫每月總用量，包含套餐額度。預計費用為套餐月費加超出額度的費用。"
+  },
+  "legal": {
+    "draft": "草案 · 待正式審定",
+    "intro": "本頁說明此行銷網站的使用與資料處理。產品應用另有服務及資料處理條款。",
+    "effective": "生效日期",
+    "entity": "服務主體",
+    "law": "適用法律",
+    "contact": "聯絡方式",
+    "contactPending": "聯絡方式將於服務正式開放前公布。",
+    "pending": "待確認",
+    "terms": [
+      [
+        "網站用途",
+        "本站提供產品介紹與費用估算。瀏覽不會開通帳號、提交訂單或授權付款。"
+      ],
+      [
+        "估算與服務範圍",
+        "計算結果依輸入單價和用量而定。正式價格、功能、可用性及支援以確認訂單和產品條款為準，不保證廣告效果。"
+      ],
+      [
+        "合理使用",
+        "不得干擾他人、嘗試未經授權存取或侵犯智慧財產權。第三方品牌用於識別支援服務，不代表背書。"
+      ],
+      [
+        "外部服務",
+        "點擊應用或其他供應商連結將離開本站，建立帳號或提交資料前請閱讀其條款。"
+      ]
+    ],
+    "privacy": [
+      [
+        "本站處理的資料",
+        "本站沒有帳號註冊、聯絡表單、廣告像素或統計追蹤。計算器資料僅在瀏覽器處理，不由本站提交。"
+      ],
+      [
+        "託管與網路請求",
+        "載入網站時，瀏覽器會向 Cloudflare 傳送 IP 位址、請求路徑等資訊。基礎設施日誌依託管方規則和部署設定，本頁不承諾零日誌。"
+      ],
+      [
+        "瀏覽器偏好",
+        "主題偏好保存在本機儲存，所選語言體現在 URL。可透過瀏覽器設定清除主題偏好。"
+      ],
+      [
+        "外部連結與諮詢",
+        "使用產品應用或寄送支援郵件屬獨立互動，接收方依其條款及隱私說明處理資料。"
+      ]
+    ]
+  },
+  "showcase": {
+    "label": "產品介面",
+    "title": "從後台，看看每一步如何發生。",
+    "lead": "從造訪概覽到客戶對話，再到落地頁編輯，看看 AdLinker 的實際工作介面。",
+    "items": [
+      {
+        "title": "儀表板",
+        "description": "在同一頁查看落地頁造訪、前往 WhatsApp 與首則訊息的漏斗。",
+        "alt": "AdLinker — 儀表板"
+      },
+      {
+        "title": "WhatsApp 對話",
+        "description": "依帳號查看對話串、訊息記錄與日期範圍。",
+        "alt": "AdLinker — WhatsApp 對話"
+      },
+      {
+        "title": "落地頁編輯器",
+        "description": "組合標題、文字、按鈕等內容區塊，同時預覽手機版效果。",
+        "alt": "AdLinker — 落地頁編輯器"
+      }
+    ]
+  },
+  "contact": {
+    "nav": "Contact",
+    "title": "Contact AdLinker",
+    "lead": "Reach us directly through Telegram or phone.",
+    "telegramNote": "Open Telegram to start a conversation.",
+    "phoneNote": "Tap to call us.",
+    "phoneLabel": "Phone",
+    "telegram": "Telegram",
+    "phone": "Phone",
+    "emailNote": "發送郵件，獲取諮詢與接入支援。",
+    "wechat": "微信號",
+    "wechatNote": "微信號與手機號碼相同，請在微信中搜尋此號碼。"
+  },
+  "seoHomeTitle": "TikTok Ads to WhatsApp Tracking & Attribution | AdLinker",
+  "seoHomeDescription": "Track TikTok ad clicks, WhatsApp conversations and conversion events in one evidence chain.",
+  "workflowHeading": "How TikTok to WhatsApp attribution works",
+  "workflowText": "AdLinker keeps the journey readable: a TikTok click becomes a traceable visit, a WhatsApp open becomes a handoff, and messages become conversation milestones.",
+  "workflowNote": "A sent event shows delivery from AdLinker; it does not guarantee TikTok acceptance, attribution or advertising results."
+}

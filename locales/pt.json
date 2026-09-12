@@ -1,0 +1,335 @@
+{
+  "nav": [
+    "Por que funciona",
+    "Calculadora",
+    "Termos",
+    "Privacidade"
+  ],
+  "eyebrow": "LINK. TRACK. GROW.",
+  "title": "Transforme cliques em uma cadeia de evidências de conversão.",
+  "lead": "A AdLinker conecta o tráfego dos anúncios TikTok às conversas no WhatsApp, mostrando origem, etapa e status de entrega de cada lead.",
+  "primary": "Ver o fluxo",
+  "secondary": "Estimar custo",
+  "proof": "Um caminho claro do clique à conversa",
+  "proofLead": "Acompanhe a passagem da primeira visita aos eventos enviados.",
+  "whyTitle": "Evidências para agir",
+  "whyLead": "Veja o que foi registrado, associado e entregue antes da próxima decisão.",
+  "why": [
+    "Links com origem",
+    "Marcos da conversa",
+    "Status de entrega"
+  ],
+  "whyText": [
+    "Dê um ID rastreável a cada visita.",
+    "Separe primeira mensagem de intenção profunda.",
+    "Veja estados em fila, enviados, repetidos ou rejeitados."
+  ],
+  "calcTitle": "Estime com seus dados",
+  "calcLead": "Uma planilha privada no navegador, sem conta ou script de rastreamento.",
+  "terms": "Termos",
+  "privacy": "Privacidade",
+  "configure": "Preços e cadastro estão sendo configurados. Fale com a AdLinker para uma cotação confirmada.",
+  "footer": "A AdLinker oferece consultoria e suporte de integração. Serviço e cobrança seguem seu pedido confirmado e as regras upstream.",
+  "cta": "Ver o fluxo",
+  "back": "Voltar ao início",
+  "sample": "Evento ilustrativo · dados de exemplo",
+  "stages": [
+    "Anúncio TikTok",
+    "Link de tracking / TID",
+    "Conversa WhatsApp",
+    "Events API"
+  ],
+  "events": [
+    "page_view",
+    "wa_open",
+    "first_message",
+    "qualified"
+  ],
+  "estimate": "Estimativa",
+  "visitors": "Visitantes mensais",
+  "accounts": "Contas WhatsApp",
+  "intent": "Contatos com intenção",
+  "engaged": "Contatos engajados",
+  "reengaged": "Reengajados",
+  "calculate": "Calcular",
+  "example": "Estimativa de exemplo enquanto os preços não são confirmados.",
+  "total": "Total mensal estimado",
+  "unavailable": "Não configurado",
+  "home": "Início",
+  "headline": [
+    "Cada clique tem uma história.",
+    "Conecte a conversa."
+  ],
+  "skip": "Pular para o conteúdo",
+  "language": "Idioma",
+  "lightTheme": "Tema claro",
+  "darkTheme": "Tema escuro",
+  "menu": "Menu",
+  "start": "Começar",
+  "signIn": "Entrar",
+  "heroNotes": [
+    "Rastreie a origem",
+    "Entenda a conversa",
+    "Confira a entrega"
+  ],
+  "diagramTitle": "Uma jornada conectada.",
+  "diagramCaption": "Ilustração do fluxo de atribuição, não atividade ao vivo.",
+  "diagramMeta": "DO ANÚNCIO À CONVERSA",
+  "stageNotes": [
+    "Uma campanha traz a visita.",
+    "Um ID exclusivo mantém a origem vinculada.",
+    "A mensagem se torna um marco da conversa.",
+    "Eventos compatíveis retornam pela conexão configurada."
+  ],
+  "howLabel": "COMO FUNCIONA",
+  "featuresTitle": "Veja a jornada inteira.",
+  "featuresLead": "Ferramentas para conectar tráfego, conversas e feedback de conversão.",
+  "features": [
+    [
+      "Links de rastreamento",
+      "Escolha uma página de destino ou um link direto ao WhatsApp."
+    ],
+    [
+      "Várias contas WhatsApp",
+      "Distribua leads por conta fixa, rodízio ou ponderação."
+    ],
+    [
+      "Marcos da conversa",
+      "Distinga primeira mensagem, engajamento e leads revisados."
+    ],
+    [
+      "Feedback de eventos TikTok",
+      "Envie eventos compatíveis pela conexão Events API configurada."
+    ],
+    [
+      "Espaço de atribuição",
+      "Veja origens, detalhes por conta e etapas do funil."
+    ],
+    [
+      "Colaboração em equipe",
+      "Organize projetos e colabore com permissões por função."
+    ]
+  ],
+  "pathTitle": "Duas rotas. Uma visão mais clara.",
+  "pathLead": "Escolha o caminho que combina com a forma como seu público inicia a conversa.",
+  "paths": [
+    [
+      "Via página de destino",
+      "Explique a oferta primeiro e conecte visita, clique e conversa."
+    ],
+    [
+      "Direto ao WhatsApp",
+      "Encurte o caminho à conversa e associe a origem usando identificadores compatíveis."
+    ]
+  ],
+  "compareTitle": "Vá além da contagem de cliques.",
+  "compareHeads": [
+    "Sua pergunta",
+    "Só os cliques",
+    "Jornada conectada"
+  ],
+  "compareRows": [
+    [
+      "De onde veio o lead?",
+      "Visita separada da conversa",
+      "Origem associada à sessão"
+    ],
+    [
+      "Houve uma mensagem?",
+      "Um link foi aberto",
+      "Primeira mensagem recebida"
+    ],
+    [
+      "Até onde foi a conversa?",
+      "Cliques parecem iguais",
+      "Marcos distintos da conversa"
+    ],
+    [
+      "O evento foi enviado?",
+      "Sem detalhes de entrega",
+      "Estados de entrega e repetição"
+    ]
+  ],
+  "statusTitle": "Veja o estado de cada sinal.",
+  "statusLabels": [
+    "Na fila",
+    "Enviado",
+    "Repetindo",
+    "Rejeitado"
+  ],
+  "statusNote": "Enviado é um estado técnico. Não garante aceitação pela plataforma, atribuição nem resultado de publicidade.",
+  "pricingHeading": "Entenda o custo antes de crescer.",
+  "pricingText": "Combine plano, contas e uso real. Compare volumes usando sua própria cotação.",
+  "priceParts": [
+    "Plano mensal",
+    "Contas adicionais",
+    "Visitas e eventos de conversa"
+  ],
+  "faqTitle": "Perguntas frequentes.",
+  "faq": [
+    [
+      "Este é o aplicativo do produto?",
+      "Este é o site de marketing. O aplicativo e o acesso ficam em um domínio separado."
+    ],
+    [
+      "Um clique garante uma conversa?",
+      "Não. Visita, redirecionamento e mensagem são etapas diferentes. A atribuição mostra até onde a jornada chegou."
+    ],
+    [
+      "O resultado é uma cotação oficial?",
+      "É uma estimativa baseada nos dados inseridos. O pedido confirmado e as regras de cobrança prevalecem."
+    ]
+  ],
+  "closingTitle": "Sua próxima campanha, mais clara.",
+  "closingText": "Entenda a jornada e encontre um plano para seu volume.",
+  "calc": {
+    "title": "Seu volume. Sua estimativa mensal.",
+    "lead": "Escolha um plano e informe o uso. Tarifas e créditos são preenchidos automaticamente.",
+    "usage": "Uso mensal",
+    "quote": "Tarifas e créditos do plano",
+    "custom": "Cotação personalizada",
+    "reset": "Redefinir",
+    "mode": [
+      "Página de destino",
+      "Direto ao WhatsApp"
+    ],
+    "modeHelp": [
+      "Inclui o custo de visitas à página de destino.",
+      "Esta rota exclui custos de UV."
+    ],
+    "fields": [
+      "Total de visitantes mensais do anúncio (incluído no plano)",
+      "Total de contas WhatsApp em uso",
+      "Total de pessoas que iniciaram conversa",
+      "Total de pessoas com conversa profunda",
+      "Conversas de retorno"
+    ],
+    "rates": [
+      "Mensalidade do plano",
+      "Contas incluídas",
+      "Preço por conta extra",
+      "Preço por UV",
+      "Crédito de UV",
+      "Preço por contato com intenção",
+      "Preço por contato engajado",
+      "Preço por reengajamento",
+      "Crédito de eventos de conversa"
+    ],
+    "fill": "Informe a tarifa",
+    "enter": "Adicione as tarifas para ver o total.",
+    "incomplete": "Preencha valores não negativos: quantidades inteiras e tarifas com até 4 casas decimais.",
+    "funnel": "Pessoas com conversa profunda não podem exceder o total de pessoas que iniciaram conversa.",
+    "breakdown": [
+      "Plano",
+      "Contas WhatsApp extras",
+      "UV acima da franquia",
+      "Conversas acima do crédito"
+    ],
+    "total": "Estimativa por mês",
+    "note": "Estimativa, sem cobrança. Exclui impostos, câmbio e serviços fora desta planilha.",
+    "formula": "Contatos engajados estão incluídos nos contatos com intenção; só a etapa mais profunda é cobrada. No modo landing page, desconta-se a tarifa de UV correspondente dos eventos de conversa. Reengajamentos são cobrados separadamente. Créditos não geram valores negativos.",
+    "local": "Os dados ficam nesta aba do navegador.",
+    "quoteLabel": "Estimativa mensal",
+    "unit": "Valores em",
+    "clear": "Limpar tarifas",
+    "advanced": "Opcional: dados de conversa",
+    "advancedHint": "Conversas profundas fazem parte do total de pessoas que iniciaram conversa; retornos são separados. Os dois campos opcionais em branco contam como 0.",
+    "advancedUsage": "Mais dados de conversa (opcional)",
+    "plan": "Plano mensal",
+    "perMonth": "/mês",
+    "planIncludes": "Inclui",
+    "accountsIncluded": "contas WhatsApp",
+    "uvIncluded": "UV grátis",
+    "eventIncluded": "crédito de conversa",
+    "howTitle": "Como é calculado?",
+    "howText": "Estimativa mensal = plano + contas WhatsApp extras + UV acima da franquia + conversas acima do crédito. No modo WhatsApp direto, não há custo de UV.",
+    "howDirectText": "Estimativa mensal = plano + contas WhatsApp extras + conversas acima do crédito. No modo WhatsApp direto, não há custo de UV.",
+    "usageHint": "Informe o uso total mensal, incluindo a franquia do plano. A estimativa soma a mensalidade e os custos acima da franquia."
+  },
+  "legal": {
+    "draft": "Rascunho · Aguardando revisão",
+    "intro": "Estas páginas descrevem o site de marketing. O aplicativo possui termos próprios de serviço e tratamento de dados.",
+    "effective": "Vigência",
+    "entity": "Entidade responsável",
+    "law": "Lei aplicável",
+    "contact": "Contato",
+    "contactPending": "Os contatos serão publicados antes da abertura do serviço.",
+    "pending": "A confirmar",
+    "terms": [
+      [
+        "Sobre o site",
+        "O site apresenta o serviço e estima custos. A navegação não cria conta, pedido ou autorização de pagamento."
+      ],
+      [
+        "Estimativas e escopo",
+        "Resultados dependem das tarifas e quantidades inseridas. Preços, recursos, disponibilidade e suporte seguem o pedido confirmado e os termos do produto. Resultados de publicidade não são garantidos."
+      ],
+      [
+        "Uso adequado",
+        "Não interfira com terceiros, tente acesso não autorizado ou viole propriedade intelectual. Marcas de terceiros identificam serviços compatíveis, sem implicar endosso."
+      ],
+      [
+        "Serviços externos",
+        "Links para aplicativos e provedores deixam este site. Leia seus termos antes de criar contas ou enviar dados."
+      ]
+    ],
+    "privacy": [
+      [
+        "Dados neste site",
+        "Não há cadastro, formulário de contato, pixel publicitário ou rastreamento analítico. O cálculo é local e os valores não são enviados pelo site."
+      ],
+      [
+        "Hospedagem e rede",
+        "O navegador envia IP e URL solicitada à Cloudflare para carregar o site. Logs dependem do provedor e da configuração; não prometemos ausência de logs."
+      ],
+      [
+        "Preferências do navegador",
+        "O tema fica no armazenamento local; o idioma aparece na URL. Você pode apagar a preferência de tema nas configurações do navegador."
+      ],
+      [
+        "Links e consultas",
+        "Acessar o aplicativo ou enviar e-mail é uma interação separada. O destinatário trata os dados conforme seus termos e aviso de privacidade."
+      ]
+    ]
+  },
+  "showcase": {
+    "label": "Conheça o produto",
+    "title": "Veja o que acontece após cada clique.",
+    "lead": "Explore a interface real do AdLinker: visitas, conversas com clientes e edição de páginas de destino.",
+    "items": [
+      {
+        "title": "Painel",
+        "description": "Veja visitas, aberturas do WhatsApp e primeiras mensagens em um único funil.",
+        "alt": "AdLinker — Painel"
+      },
+      {
+        "title": "Conversas do WhatsApp",
+        "description": "Consulte conversas, histórico de mensagens e intervalos de datas por conta.",
+        "alt": "AdLinker — Conversas do WhatsApp"
+      },
+      {
+        "title": "Editor de páginas",
+        "description": "Combine títulos, textos e botões com uma prévia da página no celular.",
+        "alt": "AdLinker — Editor de páginas"
+      }
+    ]
+  },
+  "contact": {
+    "nav": "Contact",
+    "title": "Contact AdLinker",
+    "lead": "Reach us directly through Telegram or phone.",
+    "telegramNote": "Open Telegram to start a conversation.",
+    "phoneNote": "Tap to call us.",
+    "phoneLabel": "Phone",
+    "telegram": "Telegram",
+    "phone": "Phone",
+    "emailNote": "Send us an email for consultation and onboarding support.",
+    "wechat": "WeChat",
+    "wechatNote": "The WeChat ID is the same as the phone number. Search this number in WeChat."
+  },
+  "seoHomeTitle": "TikTok Ads to WhatsApp Tracking & Attribution | AdLinker",
+  "seoHomeDescription": "Track TikTok ad clicks, WhatsApp conversations and conversion events in one evidence chain.",
+  "workflowHeading": "How TikTok to WhatsApp attribution works",
+  "workflowText": "AdLinker keeps the journey readable: a TikTok click becomes a traceable visit, a WhatsApp open becomes a handoff, and messages become conversation milestones.",
+  "workflowNote": "A sent event shows delivery from AdLinker; it does not guarantee TikTok acceptance, attribution or advertising results."
+}

@@ -1,0 +1,335 @@
+{
+  "nav": [
+    "Why it works",
+    "Calculator",
+    "Terms",
+    "Privacy"
+  ],
+  "eyebrow": "LINK. TRACK. GROW.",
+  "title": "Turn ad clicks into a conversion evidence chain.",
+  "lead": "AdLinker helps you connect TikTok ad traffic with WhatsApp conversations, so every lead has a source, a stage and a visible delivery status.",
+  "primary": "Explore the workflow",
+  "secondary": "Estimate your cost",
+  "proof": "A clear path from click to conversation",
+  "proofLead": "Keep the handoff visible from the first page view to the events you send back.",
+  "whyTitle": "Evidence you can act on",
+  "whyLead": "Know what was recorded, matched and delivered before you make the next campaign decision.",
+  "why": [
+    "Source-aware links",
+    "Conversation milestones",
+    "Delivery status"
+  ],
+  "whyText": [
+    "Give every visit a traceable ID.",
+    "Separate a first message from deeper intent.",
+    "See queued, sent, retried or rejected states."
+  ],
+  "calcTitle": "Estimate with your own inputs",
+  "calcLead": "A private, browser-only worksheet. No account or tracking script is required.",
+  "terms": "Terms",
+  "privacy": "Privacy",
+  "configure": "Pricing and sign-up are being configured. Talk to AdLinker for a confirmed quote.",
+  "footer": "AdLinker provides consultation and onboarding support. Service availability and billing follow your confirmed order and upstream rules.",
+  "cta": "See the workflow",
+  "back": "Back to home",
+  "sample": "Illustrative event · sample data",
+  "stages": [
+    "TikTok ad",
+    "Tracking link / TID",
+    "WhatsApp conversation",
+    "Events API"
+  ],
+  "events": [
+    "page_view",
+    "wa_open",
+    "first_message",
+    "qualified"
+  ],
+  "estimate": "Estimate",
+  "visitors": "Monthly visitors",
+  "accounts": "WhatsApp accounts",
+  "intent": "Intent contacts",
+  "engaged": "Engaged contacts",
+  "reengaged": "Re-engaged contacts",
+  "calculate": "Calculate",
+  "example": "This is an example estimate until pricing is confirmed.",
+  "total": "Estimated monthly total",
+  "unavailable": "Not configured",
+  "home": "Home",
+  "headline": [
+    "Every click has a story.",
+    "Connect the conversation."
+  ],
+  "skip": "Skip to content",
+  "language": "Language",
+  "lightTheme": "Light theme",
+  "darkTheme": "Dark theme",
+  "menu": "Menu",
+  "start": "Get started",
+  "signIn": "Sign in",
+  "heroNotes": [
+    "Trace the source",
+    "Understand the conversation",
+    "Check delivery"
+  ],
+  "diagramTitle": "One journey. Connected.",
+  "diagramCaption": "An illustration of the attribution workflow, not live activity.",
+  "diagramMeta": "THE CONVERSION JOURNEY",
+  "stageNotes": [
+    "A campaign brings the visitor.",
+    "A unique ID keeps the source attached.",
+    "A message becomes a conversation milestone.",
+    "Supported events return to the ad platform."
+  ],
+  "howLabel": "HOW IT WORKS",
+  "featuresTitle": "Bring the whole journey into focus.",
+  "featuresLead": "The tools for connecting traffic, conversations and conversion feedback.",
+  "features": [
+    [
+      "Tracking links",
+      "Create a landing-page journey or a direct WhatsApp link."
+    ],
+    [
+      "Multiple WhatsApp accounts",
+      "Distribute leads using fixed, round-robin or weighted routing."
+    ],
+    [
+      "Conversation milestones",
+      "Distinguish a first message, meaningful engagement and reviewed leads."
+    ],
+    [
+      "TikTok event feedback",
+      "Send supported events through the configured Events API connection."
+    ],
+    [
+      "Attribution workspace",
+      "Explore campaign sources, account breakdowns and funnel stages."
+    ],
+    [
+      "Team collaboration",
+      "Organize projects and collaborate with role-based access."
+    ]
+  ],
+  "pathTitle": "Two routes. One clearer picture.",
+  "pathLead": "Choose the journey that fits the way your audience starts a conversation.",
+  "paths": [
+    [
+      "Via a landing page",
+      "Explain the offer first. Connect the page visit, button click and WhatsApp conversation."
+    ],
+    [
+      "Direct to WhatsApp",
+      "Make the path to a conversation shorter, using supported identifiers for attribution."
+    ]
+  ],
+  "compareTitle": "Move past the click count.",
+  "compareHeads": [
+    "Your question",
+    "A click count alone",
+    "A connected journey"
+  ],
+  "compareRows": [
+    [
+      "Where did this lead come from?",
+      "A visit without the conversation",
+      "A source associated with a session"
+    ],
+    [
+      "Did they actually speak?",
+      "A WhatsApp link was opened",
+      "A first incoming message was recorded"
+    ],
+    [
+      "How far did the conversation go?",
+      "Every click looks the same",
+      "Separate conversation milestones"
+    ],
+    [
+      "Was the event delivered?",
+      "A result without delivery detail",
+      "Visible delivery and retry states"
+    ]
+  ],
+  "statusTitle": "See the state behind the signal.",
+  "statusLabels": [
+    "Queued",
+    "Sent",
+    "Retrying",
+    "Rejected"
+  ],
+  "statusNote": "A sent event is a delivery state. It does not guarantee platform acceptance, attribution or advertising results.",
+  "pricingHeading": "Understand the cost before you scale.",
+  "pricingText": "Combine the plan, account capacity and actual usage. Use your quote to explore different volumes.",
+  "priceParts": [
+    "Monthly plan",
+    "Additional accounts",
+    "Visits & conversation events"
+  ],
+  "faqTitle": "A few things worth knowing.",
+  "faq": [
+    [
+      "How do I track WhatsApp leads from TikTok Ads?",
+      "Connect the ad visit to a traceable link, then record the WhatsApp handoff and conversation milestones."
+    ],
+    [
+      "Why are TikTok clicks different from WhatsApp conversations?",
+      "A click, a WhatsApp open and a message are separate stages, so their counts should not be expected to match."
+    ],
+    [
+      "Does a sent event guarantee attribution?",
+      "No. A sent event confirms delivery from AdLinker, not platform acceptance, attribution or advertising results."
+    ]
+  ],
+  "closingTitle": "Make your next campaign a little clearer.",
+  "closingText": "Start with the journey. Then find a plan that fits your volume.",
+  "calc": {
+    "title": "Your volume. Your monthly estimate.",
+    "lead": "Choose a plan and enter your usage. Rates and credits are filled in automatically.",
+    "usage": "Your monthly usage",
+    "quote": "Plan rates and credits",
+    "custom": "Custom quote",
+    "reset": "Reset",
+    "mode": [
+      "Landing page",
+      "Direct to WhatsApp"
+    ],
+    "modeHelp": [
+      "Includes visits to your landing page.",
+      "UV costs are excluded for this journey."
+    ],
+    "fields": [
+      "Total monthly ad visitors (including plan)",
+      "WhatsApp accounts in use",
+      "People who started a conversation",
+      "People who had deeper conversations",
+      "Return conversations"
+    ],
+    "rates": [
+      "Monthly plan fee",
+      "Included accounts",
+      "Price per extra account",
+      "Price per UV",
+      "UV credit",
+      "Price per intent contact",
+      "Price per engaged contact",
+      "Price per re-engagement",
+      "Conversation event credit"
+    ],
+    "fill": "Enter a rate",
+    "enter": "Add your quoted rates to see a total.",
+    "incomplete": "Complete the rates and enter valid, non-negative values (whole numbers for counts; up to 4 decimals for rates).",
+    "funnel": "People with deeper conversations cannot exceed the total people who started chatting.",
+    "breakdown": [
+      "Plan fee",
+      "Extra WhatsApp accounts",
+      "UV above free amount",
+      "Conversations above credit"
+    ],
+    "total": "Estimated per month",
+    "note": "An estimate, not a charge. Taxes, exchange fees and any services outside this worksheet are excluded.",
+    "formula": "Engaged contacts are included in intent contacts; only the deepest stage is billed. Landing-page events deduct the corresponding UV unit rate. Re-engagement is billed separately. Credits cannot make charges negative.",
+    "local": "Your inputs stay in this browser tab.",
+    "quoteLabel": "Monthly estimate",
+    "unit": "Amounts in",
+    "clear": "Clear rates",
+    "advanced": "Optional: refine the estimate",
+    "advancedHint": "Deeper conversations are part of the total people who started chatting; return conversations are separate. Blank optional fields count as 0.",
+    "advancedUsage": "More conversation data (optional)",
+    "plan": "Monthly plan",
+    "perMonth": "/month",
+    "planIncludes": "Includes",
+    "accountsIncluded": "WhatsApp accounts",
+    "uvIncluded": "free UV",
+    "eventIncluded": "conversation credit",
+    "howTitle": "How is this calculated?",
+    "howText": "Monthly estimate = plan fee + extra WhatsApp accounts + UV above the free amount + conversations above the credit. If you use direct WhatsApp mode, the UV part is zero.",
+    "howDirectText": "Monthly estimate = plan fee + extra WhatsApp accounts + conversations above the credit. Direct WhatsApp mode has no UV charge.",
+    "usageHint": "Enter total monthly usage, including your plan allowance. The estimate includes the plan fee plus any usage above the allowance."
+  },
+  "legal": {
+    "draft": "Draft · Pending final review",
+    "intro": "These pages describe this marketing website. The product application has its own service and data-processing terms.",
+    "effective": "Effective date",
+    "entity": "Service entity",
+    "law": "Governing law",
+    "contact": "Contact",
+    "contactPending": "Contact details will be published before the service opens.",
+    "pending": "To be confirmed",
+    "terms": [
+      [
+        "About this website",
+        "This website introduces the service and provides a cost estimation tool. Browsing it does not open a product account, place an order or authorize a payment."
+      ],
+      [
+        "Estimates and service scope",
+        "Calculator results depend on entered rates and quantities. Final prices, features, service availability and support follow the confirmed order and applicable product terms. Advertising outcomes are not guaranteed."
+      ],
+      [
+        "Appropriate use",
+        "Do not use this website to interfere with others, attempt unauthorized access or infringe intellectual property rights. Third-party names identify supported services and do not imply endorsement."
+      ],
+      [
+        "External services",
+        "Links to the application or other providers leave this website. Review their terms before creating an account or submitting data."
+      ]
+    ],
+    "privacy": [
+      [
+        "Data on this site",
+        "This marketing website has no account registration, contact form, advertising pixel or analytics runtime. Calculator values are processed locally in the browser and are not submitted by this site."
+      ],
+      [
+        "Hosting and technical requests",
+        "Your browser sends network information such as an IP address and requested URL to the hosting provider, Cloudflare, to serve the site. Infrastructure logging is governed by the provider and deployment settings; this page does not promise zero logs."
+      ],
+      [
+        "Browser preferences",
+        "A theme preference is saved in local storage when you change the theme. The URL stores the selected language. You can clear the theme preference using your browser settings."
+      ],
+      [
+        "Links and enquiries",
+        "Following an application link or emailing support is a separate interaction. That provider receives the data you choose to send, under its own terms and privacy notice."
+      ]
+    ]
+  },
+  "showcase": {
+    "label": "Product tour",
+    "title": "See the work behind every click.",
+    "lead": "Explore the actual AdLinker interface, from visit overviews and customer conversations to landing page editing.",
+    "items": [
+      {
+        "title": "Dashboard",
+        "description": "See landing page visits, WhatsApp opens and first messages in one funnel.",
+        "alt": "AdLinker — Dashboard"
+      },
+      {
+        "title": "WhatsApp conversations",
+        "description": "Browse conversation threads, message history and date ranges by account.",
+        "alt": "AdLinker — WhatsApp conversations"
+      },
+      {
+        "title": "Landing page editor",
+        "description": "Combine headings, text and buttons while previewing the mobile page.",
+        "alt": "AdLinker — Landing page editor"
+      }
+    ]
+  },
+  "contact": {
+    "nav": "Contact",
+    "title": "Contact AdLinker",
+    "lead": "Reach us directly through Telegram or phone.",
+    "telegramNote": "Open Telegram to start a conversation.",
+    "phoneNote": "Tap to call us.",
+    "phoneLabel": "Phone",
+    "telegram": "Telegram",
+    "phone": "Phone",
+    "emailNote": "Send us an email for consultation and onboarding support.",
+    "wechat": "WeChat",
+    "wechatNote": "The WeChat ID is the same as the phone number. Search this number in WeChat."
+  },
+  "seoHomeTitle": "TikTok Ads to WhatsApp Tracking & Attribution | AdLinker",
+  "seoHomeDescription": "Track TikTok ad clicks, WhatsApp conversations and conversion events in one evidence chain.",
+  "workflowHeading": "How TikTok to WhatsApp attribution works",
+  "workflowText": "AdLinker keeps the journey readable: a TikTok click becomes a traceable visit, a WhatsApp open becomes a handoff, and messages become conversation milestones.",
+  "workflowNote": "A sent event shows delivery from AdLinker; it does not guarantee TikTok acceptance, attribution or advertising results."
+}

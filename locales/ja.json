@@ -1,0 +1,335 @@
+{
+  "nav": [
+    "仕組み",
+    "料金計算",
+    "利用規約",
+    "プライバシー"
+  ],
+  "eyebrow": "LINK. TRACK. GROW.",
+  "title": "広告クリックを WhatsApp のコンバージョン証跡へ。",
+  "lead": "AdLinker は TikTok 広告と WhatsApp 会話をつなぎ、リードの流入元、段階、送信状態を見える化します。",
+  "primary": "仕組みを見る",
+  "secondary": "料金を見積もる",
+  "proof": "クリックから会話までの道筋",
+  "proofLead": "最初のページビューから送信イベントまで、引き継ぎを可視化します。",
+  "whyTitle": "判断に使える証跡",
+  "whyLead": "次のキャンペーンを決める前に、記録・紐付け・配信状態を確認できます。",
+  "why": [
+    "流入元リンク",
+    "会話のマイルストーン",
+    "配信状態"
+  ],
+  "whyText": [
+    "訪問ごとに追跡 ID を付けます。",
+    "最初のメッセージと深い意向を分けます。",
+    "キュー、送信、再試行、拒否を確認します。"
+  ],
+  "calcTitle": "入力から見積もる",
+  "calcLead": "アカウントも追跡スクリプトも不要なブラウザ計算です。",
+  "terms": "利用規約",
+  "privacy": "プライバシー",
+  "configure": "料金と登録導線を準備中です。AdLinker へ確定見積もりをご相談ください。",
+  "footer": "AdLinker は相談と導入を支援します。サービスと料金は確定注文および上流ルールに従います。",
+  "cta": "仕組みを見る",
+  "back": "ホームへ",
+  "sample": "サンプルイベント · 例示データ",
+  "stages": [
+    "TikTok 広告",
+    "追跡リンク / TID",
+    "WhatsApp 会話",
+    "Events API"
+  ],
+  "events": [
+    "page_view",
+    "wa_open",
+    "first_message",
+    "qualified"
+  ],
+  "estimate": "料金見積もり",
+  "visitors": "月間訪問数",
+  "accounts": "WhatsApp アカウント",
+  "intent": "意向コンタクト",
+  "engaged": "深い関与",
+  "reengaged": "再エンゲージ",
+  "calculate": "計算",
+  "example": "料金確定前の例示計算です。",
+  "total": "月額見積もり",
+  "unavailable": "未設定",
+  "home": "ホーム",
+  "headline": [
+    "そのクリックを、",
+    "次の会話につなぐ。"
+  ],
+  "skip": "本文へ移動",
+  "language": "言語",
+  "lightTheme": "ライトテーマ",
+  "darkTheme": "ダークテーマ",
+  "menu": "メニュー",
+  "start": "利用を始める",
+  "signIn": "ログイン",
+  "heroNotes": [
+    "流入元を追跡",
+    "会話の段階を把握",
+    "送信状態を確認"
+  ],
+  "diagramTitle": "ひとつのクリック、つながる道筋。",
+  "diagramCaption": "帰属分析の流れを示す図です。実際の稼働データではありません。",
+  "diagramMeta": "広告から会話へ",
+  "stageNotes": [
+    "TikTok 広告から訪問が始まります。",
+    "固有 ID が流入元と訪問をつなぎます。",
+    "メッセージと反応が会話の段階になります。",
+    "対応イベントを設定済みの接続で返送します。"
+  ],
+  "howLabel": "仕組み",
+  "featuresTitle": "コンバージョンの全体像を、ひとつに。",
+  "featuresLead": "流入、会話、イベントのフィードバックをつなぐ機能。",
+  "features": [
+    [
+      "追跡リンク",
+      "ランディングページ経由か WhatsApp 直接リンクを選択。"
+    ],
+    [
+      "複数の WhatsApp アカウント",
+      "固定、順番または重み付けでリードを配分。"
+    ],
+    [
+      "会話のマイルストーン",
+      "最初の受信、実際の反応、確認済みリードを区別。"
+    ],
+    [
+      "TikTok イベント返送",
+      "設定済み Events API 接続で対応イベントを送信。"
+    ],
+    [
+      "帰属分析ワークスペース",
+      "流入元、アカウント別の内訳、ファネルの段階を確認。"
+    ],
+    [
+      "チームでの利用",
+      "プロジェクトとロール別権限で協力。"
+    ]
+  ],
+  "pathTitle": "ふたつのルート、ひとつの全体像。",
+  "pathLead": "顧客が会話を始める方法に合わせて選びましょう。",
+  "paths": [
+    [
+      "ランディングページ経由",
+      "商品を説明してから会話へ。訪問、クリック、会話を関連付けます。"
+    ],
+    [
+      "WhatsApp へ直接",
+      "広告から会話までの距離を短くし、対応する識別子で流入元を関連付けます。"
+    ]
+  ],
+  "compareTitle": "クリック数の、その先へ。",
+  "compareHeads": [
+    "知りたいこと",
+    "クリック数だけ",
+    "つながる道筋"
+  ],
+  "compareRows": [
+    [
+      "リードはどこから？",
+      "訪問と会話が別々",
+      "流入元とセッションを関連付け"
+    ],
+    [
+      "実際に話しかけた？",
+      "リンクが開かれた",
+      "最初の受信メッセージを記録"
+    ],
+    [
+      "会話はどこまで？",
+      "似たようなクリック",
+      "会話の段階を区別"
+    ],
+    [
+      "イベントは送られた？",
+      "送信の詳細が不明",
+      "送信と再試行を確認"
+    ]
+  ],
+  "statusTitle": "シグナルの状態まで確認。",
+  "statusLabels": [
+    "待機中",
+    "送信済み",
+    "再試行中",
+    "拒否"
+  ],
+  "statusNote": "送信済みは配信状態です。プラットフォームでの受理、帰属分析や広告効果を保証しません。",
+  "pricingHeading": "拡大する前に、費用を把握。",
+  "pricingText": "プラン、アカウント数と利用量をまとめ、実際の見積単価で規模を比較。",
+  "priceParts": [
+    "月額プラン",
+    "追加アカウント",
+    "訪問と会話イベント"
+  ],
+  "faqTitle": "よくあるご質問",
+  "faq": [
+    [
+      "ここは製品アプリですか？",
+      "マーケティングサイトです。ワークスペースとログインは別のアプリドメインにあります。"
+    ],
+    [
+      "クリックは会話を保証しますか？",
+      "いいえ。訪問、移動、受信メッセージは別の段階です。分析は顧客がどこまで進んだかを示します。"
+    ],
+    [
+      "計算結果は正式な見積書ですか？",
+      "入力単価と数量に基づく試算です。確定した注文と請求規則が優先されます。"
+    ]
+  ],
+  "closingTitle": "次の広告を、もっと明確に。",
+  "closingText": "顧客の道筋を理解して、規模に合ったプランを選びましょう。",
+  "calc": {
+    "title": "利用規模から、月額予算を。",
+    "lead": "プランを選んで利用量を入力。単価と無料枠は自動で反映されます。",
+    "usage": "月間利用量",
+    "quote": "プランの単価と無料枠",
+    "custom": "手動の見積もり",
+    "reset": "リセット",
+    "mode": [
+      "ランディングページ",
+      "WhatsApp へ直接"
+    ],
+    "modeHelp": [
+      "ランディングページの訪問費用を含みます。",
+      "この経路では UV 費用を計算しません。"
+    ],
+    "fields": [
+      "月間広告訪問者の総数（プラン込み）",
+      "使用中の WhatsApp アカウント総数",
+      "会話を始めた総人数",
+      "深い会話をした総人数",
+      "再訪して会話した回数"
+    ],
+    "rates": [
+      "月額プラン料金",
+      "含まれるアカウント",
+      "追加アカウント単価",
+      "UV 単価",
+      "UV クレジット",
+      "意向コンタクト単価",
+      "深い関与の単価",
+      "再関与イベント単価",
+      "会話イベントのクレジット"
+    ],
+    "fill": "単価を入力",
+    "enter": "見積単価を入力すると内訳を表示します。",
+    "incomplete": "0 以上の値を入力してください。数量は整数、単価は小数点以下 4 桁までです。",
+    "funnel": "深い会話の人数は会話を始めた総人数を超えることはできません。",
+    "breakdown": [
+      "プラン料金",
+      "追加 WhatsApp アカウント",
+      "無料 UV 超過分",
+      "会話クレジット超過分"
+    ],
+    "total": "月額の試算",
+    "note": "試算のみで課金は発生しません。税金、為替手数料と別サービスは含みません。",
+    "formula": "深い関与は意向コンタクトに含まれ、最も深い段階のみ課金します。ランディングページモードでは会話イベントの単価から該当する UV 単価を差し引きます。再関与は別途課金し、無料枠の適用後も料金はゼロ未満になりません。",
+    "local": "入力はこのブラウザタブにのみ保持されます。",
+    "quoteLabel": "月額費用の見積もり",
+    "unit": "表示通貨",
+    "clear": "単価を消去",
+    "advanced": "任意：会話データを追加",
+    "advancedHint": "深い会話の人数は会話を始めた総人数に含まれ、再訪の会話は別途計算します。この2項目が空欄の場合は0として見積もります。",
+    "advancedUsage": "追加の会話データ（任意）",
+    "plan": "月額プラン",
+    "perMonth": "/月",
+    "planIncludes": "プランに含まれるもの",
+    "accountsIncluded": "個の WhatsApp アカウント",
+    "uvIncluded": "件の無料 UV",
+    "eventIncluded": "会話クレジット",
+    "howTitle": "計算方法",
+    "howText": "月額費用 = プラン料金 + 超過 WhatsApp アカウント + 無料枠を超えた UV + クレジットを超えた会話。WhatsApp 直跳びモードでは UV 料金はかかりません。",
+    "howDirectText": "月額費用 = プラン料金 + 超過 WhatsApp アカウント料金 + クレジットを超えた会話料金。WhatsApp に直接移動するモードでは UV 料金はかかりません。",
+    "usageHint": "プランの無料枠を含めた月間の総利用量を入力してください。見積額はプランの月額料金と無料枠を超えた料金の合計です。"
+  },
+  "legal": {
+    "draft": "草案 · 最終確認待ち",
+    "intro": "このページはマーケティングサイトについて説明します。製品アプリには別の利用・データ処理規約があります。",
+    "effective": "発効日",
+    "entity": "運営主体",
+    "law": "準拠法",
+    "contact": "お問い合わせ",
+    "contactPending": "連絡先は正式なサービス開始前に公開します。",
+    "pending": "確認中",
+    "terms": [
+      [
+        "サイトの目的",
+        "製品紹介と費用試算を提供します。閲覧だけでアカウント作成、注文や支払い承認は行われません。"
+      ],
+      [
+        "見積もりと範囲",
+        "結果は入力単価と数量に依存します。価格、機能、可用性と支援は確定注文と製品規約によります。広告効果は保証しません。"
+      ],
+      [
+        "適切な利用",
+        "妨害、不正アクセスや知的財産権の侵害は禁止します。第三者ブランドは対応サービスの識別用で、推薦を意味しません。"
+      ],
+      [
+        "外部サービス",
+        "外部アプリへのリンクは当サイトを離れます。登録やデータ提出前に相手の規約をご確認ください。"
+      ]
+    ],
+    "privacy": [
+      [
+        "サイトのデータ",
+        "会員登録、問い合わせフォーム、広告ピクセルや分析追跡はありません。計算はブラウザ内で行われ、送信されません。"
+      ],
+      [
+        "ホスティングへの通信",
+        "読み込み時にブラウザは IP アドレスや URL などを Cloudflare に送信します。ログは提供者の規則と設定に従い、無記録を保証しません。"
+      ],
+      [
+        "ブラウザの設定",
+        "テーマはローカルストレージ、言語は URL に反映されます。テーマはブラウザ設定から削除できます。"
+      ],
+      [
+        "リンクと問い合わせ",
+        "製品アプリの利用や支援メールは別のやり取りです。受信者が自身の規約とプライバシー通知に従ってデータを処理します。"
+      ]
+    ]
+  },
+  "showcase": {
+    "label": "製品画面",
+    "title": "クリックの先を、管理画面で。",
+    "lead": "アクセス状況、顧客との会話、ランディングページの編集まで、AdLinker の実際の画面をご覧ください。",
+    "items": [
+      {
+        "title": "ダッシュボード",
+        "description": "ページ訪問、WhatsApp への移動、最初のメッセージを一つのファネルで確認。",
+        "alt": "AdLinker — ダッシュボード"
+      },
+      {
+        "title": "WhatsApp の会話",
+        "description": "アカウントごとに会話スレッド、メッセージ履歴、期間を確認。",
+        "alt": "AdLinker — WhatsApp の会話"
+      },
+      {
+        "title": "ページエディター",
+        "description": "見出し、テキスト、ボタンを組み合わせ、モバイル表示をプレビュー。",
+        "alt": "AdLinker — ページエディター"
+      }
+    ]
+  },
+  "contact": {
+    "nav": "Contact",
+    "title": "Contact AdLinker",
+    "lead": "Reach us directly through Telegram or phone.",
+    "telegramNote": "Open Telegram to start a conversation.",
+    "phoneNote": "Tap to call us.",
+    "phoneLabel": "Phone",
+    "telegram": "Telegram",
+    "phone": "Phone",
+    "emailNote": "Send us an email for consultation and onboarding support.",
+    "wechat": "WeChat",
+    "wechatNote": "The WeChat ID is the same as the phone number. Search this number in WeChat."
+  },
+  "seoHomeTitle": "TikTok Ads to WhatsApp Tracking & Attribution | AdLinker",
+  "seoHomeDescription": "Track TikTok ad clicks, WhatsApp conversations and conversion events in one evidence chain.",
+  "workflowHeading": "How TikTok to WhatsApp attribution works",
+  "workflowText": "AdLinker keeps the journey readable: a TikTok click becomes a traceable visit, a WhatsApp open becomes a handoff, and messages become conversation milestones.",
+  "workflowNote": "A sent event shows delivery from AdLinker; it does not guarantee TikTok acceptance, attribution or advertising results."
+}
