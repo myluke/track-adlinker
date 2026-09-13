@@ -16,6 +16,8 @@
   let title = $derived((section === 'home' ? copy.seoHomeTitle : section === 'why' ? copy.whyTitle : section === 'why' ? copy.whyTitle : section === 'calculator' ? copy.calc.title : section === 'contact' ? copy.contact.title : section === 'terms' ? copy.terms : copy.privacy) + ' · ' + config.brand.name);
   let description = $derived((section === 'home' ? copy.seoHomeDescription : section === 'why' ? copy.whyLead : section === 'why' ? copy.whyLead : section === 'calculator' ? copy.calc.lead : section === 'contact' ? copy.contact.lead : copy.legal.intro).replaceAll('AdLinker', config.brand.name));
   let canonical = $derived(config.urls.marketing.replace(/\/$/, '') + link(section === 'home' ? '' : section));
+  // Svelte keeps template <script> bodies as raw text, so emit the complete tag.
+  const ldJson = (json: string) => `<script type="application/ld+json">${json.replaceAll('<', '\\u003c')}<\/script>`;
   let seoSchema = $derived(JSON.stringify({
     '@context': 'https://schema.org', '@graph': [
       { '@type': 'Organization', name: config.brand.name, url: config.urls.marketing, logo: new URL(config.brand.logo, config.urls.marketing).href },
@@ -32,7 +34,7 @@
   <link rel="alternate" hreflang="x-default" href={`${config.urls.marketing.replace(/\/$/, '')}/zh-hans/${section === 'home' ? '' : section + '/'}`} />
   <meta property="og:type" content="website" /><meta property="og:site_name" content={config.brand.name} /><meta property="og:title" content={title} /><meta property="og:description" content={description} /><meta property="og:url" content={canonical} />
   <meta property="og:image" content={new URL(config.brand.socialImage, config.urls.marketing).href} /><meta name="twitter:card" content="summary" />
-  <script type="application/ld+json">{@html seoSchema}</script>
+  {@html ldJson(seoSchema)}
   {#if (section === 'terms' || section === 'privacy') && !legalReady}<meta name="robots" content="noindex,follow" />{/if}
 </svelte:head>
 

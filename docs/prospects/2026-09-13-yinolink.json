@@ -1,0 +1,105 @@
+{
+  "collected_at": "2026-09-13T19:21:31+08:00",
+  "status": "researched_not_contacted",
+  "brand": "易诺 YinoLink",
+  "legal_entity_as_displayed": "杭州几海里网络科技有限公司",
+  "legal_entity_registry_verified": false,
+  "website": "https://www.yinolink.com/",
+  "tiktok_directory": {
+    "url": "https://www.tiktokforbusinessoutbound.com/partners/186",
+    "authorization_start_year_as_displayed": 2022,
+    "listing_verified": true
+  },
+  "contact": {
+    "email": "mkt@yinolink.com",
+    "email_label": "客户建议及合作；商务合作邮箱",
+    "email_sources": ["S1", "S4"],
+    "email_deliverability_tested": false,
+    "phone": "400-8323-611",
+    "business_hours_as_displayed": "工作日 9:00–18:00；时区未注明",
+    "hangzhou_address": "杭州市上城区近江时代大厦B座；TikTok目录额外注明20楼",
+    "guangzhou_address": "广东省广州市番禺区保利大都会A3座",
+    "named_decision_maker": null,
+    "suggested_roles": ["生态合作负责人", "TikTok线索广告投放或交付负责人"]
+  },
+  "partnership": {
+    "invitation_url": "https://www.yinolink.com/provider",
+    "contact_url": "https://www.yinolink.com/contact",
+    "public_invitation": "联合活动、内容共创、客户推荐与生态合作，共同服务中国品牌全球增长。",
+    "scope": "公开生态合作邀请；不等同于订阅或不限次数营销同意",
+    "marketing_subscription_confirmed": false,
+    "user_authorized_sending": false,
+    "outbound_messages_sent": 0
+  },
+  "assessment": {
+    "recommendation": "本轮首选，继续资格确认",
+    "rationale": [
+      "TikTok官方代理目录可核验",
+      "官网公开提供Facebook到WhatsApp获客及代投服务",
+      "明确开放生态合作和客户推荐",
+      "商务合作邮箱在目录与官网两处一致"
+    ],
+    "public_whatsapp_service_platform": "Meta / Facebook / Instagram",
+    "tiktok_to_whatsapp_customer_project_verified": false,
+    "budget": null,
+    "purchase_intent": null,
+    "existing_tool": "YinoCloud",
+    "existing_tool_public_functions": ["开户", "充值", "账户诊断", "广告优化", "素材批量制作"],
+    "existing_whatsapp_attribution_capability": "未知；不能从官网未提及推断不存在",
+    "recommended_first_step": "围绕生态合作邀请确认TikTok到WhatsApp项目及现有追踪方式，适配后再讨论单项目试用",
+    "caveat": "WhatsApp证据为2025-11-19的官网Meta业务文章，非TikTok到WhatsApp成功案例；公司业务陈述未经独立交付验证"
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "易诺 YinoLink — TikTok for Business 官方代理商详情",
+      "url": "https://www.tiktokforbusinessoutbound.com/partners/186",
+      "excerpt": "2022年起， 易诺 YinoLink 成为 TikTok for Business 授权代理商。"
+    },
+    {
+      "id": "S2",
+      "title": "YinoLink易诺官网首页",
+      "url": "https://www.yinolink.com/",
+      "excerpt": "YinoCloud易诺云为卖家提供开户、充值、账户诊断、广告优化、素材批量制作等实用功能，让广告投放更高效、更省心"
+    },
+    {
+      "id": "S3",
+      "title": "YinoLink易诺生态合作伙伴",
+      "url": "https://www.yinolink.com/provider",
+      "excerpt": "联合活动、内容共创、客户推荐与生态合作，共同服务中国品牌全球增长。"
+    },
+    {
+      "id": "S4",
+      "title": "联系 YinoLink易诺",
+      "url": "https://www.yinolink.com/contact",
+      "excerpts": ["客户建议及合作", "mkt@yinolink.com", "商务合作邮箱"]
+    },
+    {
+      "id": "S5",
+      "title": "解锁外贸新流量：一文读懂WhatsApp直达广告与创建全攻略",
+      "url": "https://yinolink.com/view/%E8%A7%A3%E9%94%81%E5%A4%96%E8%B4%B8%E6%96%B0%E6%B5%81%E9%87%8F%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82whatsapp%E7%9B%B4%E8%BE%BE%E5%B9%BF%E5%91%8A%E4%B8%8E%E5%88%9B%E5%BB%BA%E5%85%A8%E6%94%BB",
+      "published_date_as_displayed": "2025-11-19",
+      "author_as_displayed": "YinoLink团队",
+      "excerpts": [
+        "Meta平台推出的WhatsApp直达广告",
+        "能够帮助外贸卖家在最短的时间内，通过Facebook广告引流到WhatsApp，实现精准获客。",
+        "更有专业的广告优化师利用增长型投放策略全程替您投放，并定期进行数据复盘。"
+      ],
+      "evidence_scope": "公开业务自述；Meta场景；非独立核验的客户案例"
+    }
+  ],
+  "collection": {
+    "method": "Codex内置浏览器公开页面只读、串行查看",
+    "directory_list_pages": 5,
+    "directory_entries_screened_by_summary": 78,
+    "candidate_detail_pages": 2,
+    "candidate_website_pages": 6,
+    "search_pages": 2,
+    "top_level_page_visits": 15,
+    "count_note": "仅统计顶层页面访问，不包含浏览器自动加载的HTTP资源请求",
+    "same_site_navigation_spacing": "至少约12秒等待或更长阅读间隔",
+    "ip_blocking_guarantee": false,
+    "contact_list_uploaded_to_third_party": false,
+    "scope_limit": "只详细比较2家公司；并非对78家公司逐一尽调或全市场排名"
+  }
+}

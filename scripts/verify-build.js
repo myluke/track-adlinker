@@ -23,7 +23,9 @@ for (const locale of locales) for (const section of sections) {
   assert.ok(/<title>[^<]+<\/title>/.test(html), `title: ${path}`);
   assert.ok(/<meta name="description" content="[^"]+"/.test(html), `description: ${path}`);
   assert.ok(/<h1\b[^>]*>/.test(html), `h1: ${path}`);
-  assert.ok(html.includes('application/ld+json'), `schema: ${path}`);
+  const schemas = [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)];
+  assert.ok(schemas.length, `schema: ${path}`);
+  for (const [, json] of schemas) assert.doesNotThrow(() => JSON.parse(json), `invalid JSON-LD: ${path}`);
   for (const match of html.matchAll(/<(?:a|link|img|script)\b[^>]*?\b(?:href|src)="([^"]+)"/g)) {
     const target = new URL(match[1].replaceAll('&amp;','&'), origin + path);
     if (target.origin !== origin) continue;
